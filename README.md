@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ4M3ZzbzhlZHF3bHF2MDM0Z3J6OW5wcWxqazY0ZW8ycTJnd3YyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9qIQcHFew1dAs/giphy.webp" align="center" style="width: 100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ4M3ZzbzhlZHF3bHF2MDM0Z3J6OW5wcWxqazY0ZW8ycTJnd3YyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9qIQcHFew1dAs/giphy.webp" align="center" width="600" 
+     height="500" />
 </div>  
   
 
@@ -11,13 +12,13 @@
 
 
 
-### Current projects  
+### Projects
 - 🔭 I’m currently working on personal projects  
   
 
 
 
-### Current studies  
+### Studies
 - 🌱 I’m currently learning web development languajes and frameworks  
   
 
@@ -89,18 +90,9 @@
 </a>  
   
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
   
 
 <br/>  
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
