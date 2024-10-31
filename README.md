@@ -1,8 +1,9 @@
 ### Web Development - Web3 - Quantitative Trading
-### <div align="center">I'm Álvaro, a student of Web Development 🐱‍💻 with a background on Marketing, Finance and Teaching.</div>  
+#### <div align="center">I'm Álvaro, a student of Web Development 🐱‍💻 with a background on Marketing, Finance and Teaching.</div>  
   
 
 ## My Skill Set  
+<div align="center"> 
 <table><tr><td valign="top" width="33%">
 
 
@@ -39,7 +40,7 @@
 </td></tr></table>  
 
 <br/>  
-
+</div>
 
 ## Connect with me  
 <div align="center">
@@ -56,15 +57,16 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VarozXYZ&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VarozXYZ&show_icons=true&count_private=true&theme=dark" align="center" /></div>  
 
 <br/>  
 
 
 ## Recent Blog Posts  
+<div align="center">
 <a href="https://medium.com/@VarozXYZ" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+</a>  </div>
   
 
   
