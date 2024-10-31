@@ -1,28 +1,6 @@
-<div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ4M3ZzbzhlZHF3bHF2MDM0Z3J6OW5wcWxqazY0ZW8ycTJnd3YyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9qIQcHFew1dAs/giphy.webp" align="center" width="400px"/>
-</div>  
-  
-
-
-
-### Hi 👨‍💻  
+### Web Development - Web3 - Quantitative Trading
 ### <div align="center">I'm Álvaro, a student of Web Development 🐱‍💻 with a background on Marketing, Finance and Teaching.</div>  
   
-
-
-
-### Projects
-- 🔭 I’m currently working on personal projects  
-  
-
-
-
-### Studies
-- 🌱 I’m currently learning web development languajes and frameworks  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
