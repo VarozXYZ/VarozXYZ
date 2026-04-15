@@ -1,10 +1,6 @@
 # <div align="center">Alvaro | Web Development, IA & Blockchain</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:22c55e&height=180&section=header&text=VarozXYZ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header banner" />
-</div>
-
-<div align="center">
 
   ### Building clean web experiences while exploring the uses cases of IA and blockchain systems
 
