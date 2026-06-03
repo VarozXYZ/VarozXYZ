@@ -4,7 +4,7 @@
 
   ### Building clean web experiences while exploring the uses cases of IA and blockchain systems
 
-  Student of Web Development with a background in marketing, finance, and teaching.
+  Web developer with a background in marketing, finance, and teaching.
 
 </div>
 
@@ -16,14 +16,14 @@
 
 ---
 
-## About Me
+## About me
 
 - I enjoy turning ideas into products that feel clear, useful, and well crafted.
 - My background mixes technology with marketing, finance, and education.
 - I am especially interested in modern frontend development, AI implementation, and quantitative trading.
 - Right now, I am focused on growing as a full-stack developer and building projects with real product value.
 
-## Current Focus
+## Current focus
 
 - Building responsive interfaces with React, TypeScript, and Tailwind.
 - Strengthening backend fundamentals with PHP, Python, Java, and MySQL.
@@ -33,10 +33,10 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,php,python,java,mysql,bash,git,github,ps" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,go,php,python,java,mysql,bash,git,github,ps" alt="Tech stack icons" />
 </div>
 
-## What I Like Building
+## What I like building
 
 - Frontend experiences that feel fast, simple, and polished.
 - Educational and productivity-focused digital products.
@@ -51,15 +51,4 @@
   </a>
 </div>
 
-## GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VarozXYZ&show_icons=true&count_private=true&hide_border=true&title_color=1d4ed8&icon_color=22c55e&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarozXYZ&layout=compact&hide_border=true&title_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="Top languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Learning in public, building with intention, and improving one project at a time.</sub>
-</div>
